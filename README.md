@@ -1,5 +1,7 @@
 # Naver News Library
 
+A simple Python library to scrape naver news with multi-threaded downloading.
+
 # Dependencies
 * requests
 * lxml
