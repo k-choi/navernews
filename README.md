@@ -42,3 +42,8 @@ Output:
 ⓒ 세상을 보는 눈, 글로벌 미디어
 
 # Installation
+Run the following command to install this library.
+
+~~~
+sudo python setup.py install
+~~~
